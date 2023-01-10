@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-newstart/static/js/main.b11b4f26.js",
+    "main.js": "/react-newstart/static/js/main.7e00058a.js",
     "index.html": "/react-newstart/index.html",
-    "main.b11b4f26.js.map": "/react-newstart/static/js/main.b11b4f26.js.map"
+    "main.7e00058a.js.map": "/react-newstart/static/js/main.7e00058a.js.map"
   },
   "entrypoints": [
-    "static/js/main.b11b4f26.js"
+    "static/js/main.7e00058a.js"
   ]
 }
