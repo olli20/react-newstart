@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/react-newstart/static/js/main.7e00058a.js",
+    "main.js": "/react-newstart/static/js/main.c323286e.js",
+    "static/media/default.jpg": "/react-newstart/static/media/default.2e01288c0c1a3f24d743.jpg",
     "index.html": "/react-newstart/index.html",
-    "main.7e00058a.js.map": "/react-newstart/static/js/main.7e00058a.js.map"
+    "main.c323286e.js.map": "/react-newstart/static/js/main.c323286e.js.map"
   },
   "entrypoints": [
-    "static/js/main.7e00058a.js"
+    "static/js/main.c323286e.js"
   ]
 }
